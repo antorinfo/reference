@@ -32,6 +32,7 @@
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
 - [Chrome Extensions](#Chrome-extensions)
+- [Snippets](#Snippets)
 - [Others](#others)
 
 ## UI Graphics
@@ -575,6 +576,8 @@
 | [3D Transform](https://www.cssportal.com/css-3d-transform-generator/)| 3D Transform |
 | [3D Transform](https://makingcss.com/transform)| 3D Transform |
 | [Shapes](https://www.cssportal.com/css3-shapes/)| CSS Shapes |
+| [Shadow](https://brumm.af/shadows)| CSS Shadow |
+| [Border Radius](https://9elements.github.io/fancy-border-radius/)| CSS Fancy Border Radius |
 
 
 
@@ -1017,6 +1020,20 @@
 | [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) | A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more. |
 | [React Developer Tool](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | React debugging tools to the Chrome Developer Tools. It allows you to inspect the React component hierarchies in the Chrome Developer Tools. |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) | Wappalyzer is a technology profiler that shows you what websites are built with. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Snippets
+
+>Websites that allow you to compress large images
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [https://www.30secondsofcode.org/](https://www.30secondsofcode.org/)| 30 seconds of code. Css,Javascript,React-Short code snippets for all your development needs |
+| [Devhints.io](https://devhints.io/) | This is a modest collection of cheatsheets on Internet |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

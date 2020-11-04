@@ -32,6 +32,61 @@
 - [Snippets](#Snippets)
 - [Others](#others)
 
+>
+## Resource from zero to mastery
+
+- [**API**](API.md): A list of resources for learning how to use APIs.
+
+- [**Algorithms & Data Structures**](AlgorithmsDataStructures.md): Resources for tackling algorithms.
+
+- [**Angular Resources**](Angular.md): A list of resources for learning Angular.
+
+- [**Arduino**](Arduino.md): A list of resources for the Arduino micro-controller.
+
+- [**Articles**](DevelopmentArticles.md): General articles page on web development.
+
+- [**CSS Resources**](CSSResources.md): A list of resources for learning CSS.
+
+- [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
+
+- [**Cloud**](Cloud.md): Cloud Learning Resources to kickstart your career.
+
+- [**Game Development Resources**](GameDev.md): A page which lists out the resources which helps you go from zero to mastery in game development.
+
+- [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
+
+- [**Git and Github**](Using_Git_and_GitHub.md): Resources page on using Git and GitHub.
+
+- [**Interviewing for Coding Jobs**](HowtoInterviewforCodeJobs.md): A page of resources about preparing for the job market.
+
+- [**JavaScript Resources**](JavaScript.md): A list of resources for learning JavaScript.
+
+- [**MOOCs (Massive Open Online Courses)**](moocs.md): Showcasing effective online courses that covers areas such as Full-Stack development, Front-End development, Computer Science, or even a little of everything!
+
+- [**Mobile App Development**](MobileAppDevelopment.md): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system
+
+- [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
+
+- [**Practice Resources**](PracticeResources.md): A list of exercises and gamified resources for web development.
+
+- [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
+
+- [**Python Resources**](Python.md): A list of resources for learning Python.
+
+- [**Raspberry Pi**](RaspberryPi.md): Resources for the Raspberry Pi.
+
+- [**Search Engine Optimization**](SearchEngineOptimization.md): A list of resources for learning Search Engine Optimization(SEO).
+
+- [**Unix**](Unix.md): Resources for Unix systems (Linux, MacOS, etc.).
+
+- [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
+
+- [**Web Development Tools**](WebDevTools.md): A page listing a number of free web development tools.
+
+- [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
+
+>
+
 ## UI Graphics
 
 >Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
